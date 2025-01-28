@@ -1,0 +1,6 @@
+#+TITLE: Next.js Learning
+#+AUTHOR: Shyrobin
+#+DATE: 2025-01-28 16:04
+
+* TODO nextjs 基础知识学习
+  [[https://juejin.cn/book/7307859898316881957][Nextjs 开发指南]]
